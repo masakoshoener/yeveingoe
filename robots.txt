@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eiphukenoi.lafivill.hu/sitemap.xml
